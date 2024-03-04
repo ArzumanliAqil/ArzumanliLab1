@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title> Laboratoriya 2 </title>
+  </head>
+<br>
+
+  <body>
+    <h1>Laboratoriya 2 </h1>
+    <p> ArzumanliAqil</p>
+  </body>
+<br>
+<a> href="https://github.com/ArzumanliAqil/Aqil-Laboratoriya" </a>
+<img src="https://military-blog.com/sukhoi-su-57/" alt="ŞƏKİL TAPILMADI!">
+
+</html>
